@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<defs>
+<font id="Burp" horiz-adv-x="512" >
+  <font-face 
+    font-family="Burp"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="40.96 -23.04 471.04 407.04"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+0020-F101"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
+ />
+    <glyph glyph-name="icons8-burp-suite-1" unicode="&#xf100;" 
+d="M81.9199 407.04h348.16c22.5195 0 40.96 -18.4404 40.96 -40.96v-348.16c0 -22.5195 -18.4404 -40.96 -40.96 -40.96h-348.16c-22.5195 0 -40.96 18.4404 -40.96 40.96v348.16c0 22.5195 18.4404 40.96 40.96 40.96zM81.9199 386.56
+c-11.4395 0 -20.4795 -9.04004 -20.4795 -20.4795v-348.16c0 -11.4395 9.04004 -20.4795 20.4795 -20.4795h163.84v55.4395l87.9199 87.9199h-87.9199v92.1602h-116.88l116.88 116.88v36.7197h-163.84zM266.24 386.56v-45.1992l-87.9199 -87.9199h87.9199v-92.1602h116.88
+l-116.88 -116.88v-46.96h163.84c11.4395 0 20.4795 9.04004 20.4795 20.4795v348.16c0 11.4395 -9.04004 20.4795 -20.4795 20.4795h-163.84z" />
+    <glyph glyph-name="icons8-burp-suite-2" unicode="&#xf101;" 
+d="M81.9199 407.04h163.84v-57.2002l-116.88 -116.88h116.88v-92.1602h87.9199l-87.9199 -87.9199v-75.9199h-163.84c-22.5996 0 -40.96 18.3604 -40.96 40.96v348.16c0 22.5996 18.3604 40.96 40.96 40.96zM266.24 407.04h163.84c22.5996 0 40.96 -18.3604 40.96 -40.96
+v-348.16c0 -22.5996 -18.3604 -40.96 -40.96 -40.96h-163.84v67.4404l116.88 116.88h-116.88v92.1602h-87.9199l87.9199 87.9199v65.6797z" />
+  </font>
+</defs></svg>

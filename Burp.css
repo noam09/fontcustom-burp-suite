@@ -1,0 +1,44 @@
+/*
+  Icon Font: Burp
+*/
+
+@font-face {
+  font-family: "Burp";
+  src: url("./Burp_1f883ee54015e9dfd40a1f9c7276edf2.eot");
+  src: url("./Burp_1f883ee54015e9dfd40a1f9c7276edf2.eot?#iefix") format("embedded-opentype"),
+       url("./Burp_1f883ee54015e9dfd40a1f9c7276edf2.woff2") format("woff2"),
+       url("./Burp_1f883ee54015e9dfd40a1f9c7276edf2.woff") format("woff"),
+       url("./Burp_1f883ee54015e9dfd40a1f9c7276edf2.ttf") format("truetype"),
+       url("./Burp_1f883ee54015e9dfd40a1f9c7276edf2.svg#Burp") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Burp";
+    src: url("./Burp_1f883ee54015e9dfd40a1f9c7276edf2.svg#Burp") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-icons8-burp-suite-1:before,
+.icon-icons8-burp-suite-2:before {
+  display: inline-block;
+  font-family: "Burp";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-icons8-burp-suite-1:before { content: "\f100"; }
+.icon-icons8-burp-suite-2:before { content: "\f101"; }
