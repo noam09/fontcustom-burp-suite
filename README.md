@@ -4,9 +4,11 @@
 
 * Burp Suite icons by [Icons8](https://icons8.com)
 
+[Preview](https://i.imgur.com/jbRehK3.png?2)
+
 ## Usage
 
-Make the font file available to your system. One possibility is to copy it to the `/usr/share/fonts` directory.
+Make the font file available to your system. One possibility is to copy it to the `/usr/share/fonts` directory:
 
 ```console
 cp Burp_1f883ee54015e9dfd40a1f9c7276edf2.ttf /usr/share/fonts/TTF/.
