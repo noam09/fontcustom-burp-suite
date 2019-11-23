@@ -4,7 +4,7 @@
 
 * Burp Suite icons by [Icons8](https://icons8.com)
 
-[Preview](https://i.imgur.com/jbRehK3.png?2)
+![Preview](https://i.imgur.com/b4N5yOS.png)
 
 ## Usage
 
