@@ -17,7 +17,7 @@ cp Burp_1f883ee54015e9dfd40a1f9c7276edf2.ttf /usr/share/fonts/TTF/.
 Add the reference to your status bar configuration, it should come before other font files so its glyph will take precedence:
 
 ```ini
-font-1 = "Burp:size=10;3"
+font-1 = "Burp:size=11;3"
 font-2 = "MaterialIcons:size=10;6"
 ```
 
